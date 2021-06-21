@@ -18,3 +18,11 @@ Few of the main features are:
 * matplotlib
 * sklearn
 * pickle
+
+# Machine-Learning Algorithms
+* K-means
+* PCA
+* Decision Tree
+* Random Forest
+* Linear regression
+
