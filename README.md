@@ -10,3 +10,11 @@ Few of the main features are:
 * Internet usage
 * Studytime
 * Traveltime
+
+# Python Libraries
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* sklearn
+* pickle
