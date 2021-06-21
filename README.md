@@ -5,4 +5,8 @@ Few of the main features are:
 * Grades
 * Absences
 * Health
-* Daily and weekly alcohol ussage
+* Daily and weekly alcohol usage
+* Freetime after school
+* Internet usage
+* Studytime
+* Traveltime
